@@ -1,151 +1,138 @@
-👋 Hi, I'm Elshamah Baraka
+# 👋 Hi, I'm Elshamah Baraka
 
-🎓 BSc Mathematics & Computer Science — Kenyatta University (Class of 2025)
-Backend-Focused Software Engineer | Systems-Oriented Builder
+🎓 BSc Mathematics & Computer Science — Kenyatta University (Class of 2025)  
+Backend & Systems Engineer | Platform Architecture & Scalable Backend Systems
 
-I design and build scalable systems with a strong emphasis on architecture, structure, and long-term maintainability.
+I design and build scalable backend systems with a strong emphasis on modular architecture, infrastructure-aware engineering, analytics systems, and long-term maintainability.
 
-Currently engineering XRAL, a modular full-stack social media platform built with production-readiness in mind.
+My engineering interests sit at the intersection of:
 
-🧠 Academic Foundation
+- Backend systems engineering
+- Distributed systems & platform architecture
+- Infrastructure-aware application design
+- Analytics & ranking systems
+- Cloud and systems reliability
 
-My background in Mathematics and Computer Science shapes how I approach engineering:
+I enjoy understanding how complex systems interact end-to-end and building architectures that remain maintainable as complexity grows.
 
-Analytical problem solving
+---
 
-Algorithmic thinking
+# 🚀 Current Focus — MOSEL
 
-Structured system design
+MOSEL is a production-oriented marketplace platform engineered with a backend-first and systems-oriented approach.
 
-Logical rigor
+The platform includes:
 
-Quantitative reasoning
+- Modular backend architecture
+- Redis-backed caching infrastructure
+- Analytics ingestion pipelines
+- Intelligent ranking & recommendation systems
+- Geo-aware discovery systems
+- Real-time communication infrastructure
+- Booking lifecycle orchestration
+- Auction-oriented monetization systems
+- Personalized feed & engagement logic
 
-I don’t just write code — I design systems.
+The project is designed around clean separation of concerns and scalable service orchestration principles.
 
-🚀 Current Focus — XRAL
+---
 
-XRAL is a scalable social media platform built as a structured monorepo:
+# 🏗️ Engineering Approach
 
-Backend
+I build systems emphasizing:
 
-Node.js + TypeScript
+- Separation of concerns
+- Service-layer abstraction
+- Scalable backend architecture
+- Maintainability under growth
+- Infrastructure-aware engineering
+- Reliability and structured debugging
+- Explicit system boundaries
+- Long-term architectural flexibility
 
-Prisma ORM
+I optimize for structural integrity — not shortcuts.
 
-PostgreSQL
+---
 
-Migration-driven database lifecycle
+# 🧠 Technical Stack
 
-Service-layer architecture
+## Backend & Infrastructure
 
-Sanity CMS isolated behind abstraction layer
+- Node.js
+- TypeScript
+- PostgreSQL
+- Prisma ORM
+- Redis
+- REST APIs
+- Authentication & Authorization
+- Real-time systems (Socket.IO)
+- Analytics & ranking infrastructure
 
-Frontend
+---
 
-Vite
+## Systems & Engineering Foundations
 
-TypeScript
+- Linux development environments
+- Computer networking fundamentals
+- Database systems & relational modeling
+- System design fundamentals
+- API architecture
+- Structured debugging & troubleshooting
 
-Modular component structure
+---
 
-Development Environment
+## Frontend
 
-Windows 11 + WSL2 (Ubuntu)
+- Next.js
+- TypeScript
+- Component-based architecture
 
-nvm-managed Node versions
+---
 
-Clean Git workflow
+## Tooling & Workflow
 
-Architecture-first iteration
+- Git & GitHub
+- Docker
+- WSL2 (Ubuntu)
+- Environment-based configuration
+- Structured Git workflows
+- Modular monolith architecture
 
-The goal: build infrastructure that scales — not just features that work.
-
-🏗️ Technical Stack
-Backend & Systems
-
-Node.js
-
-TypeScript
-
-Prisma ORM
-
-PostgreSQL
-
-REST API design
-
-Relational database modeling
-
-Schema migration workflows
-
-Frontend
-
-Vite
-
-TypeScript
-
-Component-based UI structure
-
-Tooling
-
-Git & GitHub
-
-WSL2 (Linux dev environment)
-
-ESLint
-
-Structured commit history
-
-Environment-based configuration
-
-🧩 Engineering Philosophy
-
-I build with:
-
-Separation of concerns
-
-Migration-friendly architecture
-
-Explicit database lifecycle management
-
-Clean version control discipline
-
-Long-term scalability in mind
-
-I optimize for structural integrity, not shortcuts.
-
-🔬 Technical Interests
-
-Backend architecture & system design
-
-Database modeling & relational systems
-
-ORM abstraction layers
-
-Artificial Neural Networks in financial systems
-
-LLM robustness & adversarial evaluation
-
-Crypto market structure & liquidity dynamics
-
-📈 Long-Term Direction
+---
+
+# 🔬 Technical Interests
+
+- Backend & platform engineering
+- Distributed systems
+- Scalable architecture
+- Systems reliability
+- Cloud infrastructure
+- Recommendation & ranking systems
+- Analytics infrastructure
+- AI systems evaluation & adversarial prompting
+- Infrastructure-aware software design
+
+---
+
+# 📈 Long-Term Direction
 
 Growing toward:
 
-Backend Systems Engineering
+- Backend Systems Engineering
+- Platform & Infrastructure Engineering
+- Distributed Systems
+- Cloud & Reliability Engineering
+- Performance-oriented architecture
 
-Infrastructure & Scalable Architecture
+Currently seeking:
 
-Performance-oriented system design
+- Backend engineering opportunities
+- Cloud & infrastructure-oriented roles
+- Systems-focused engineering teams
+- High-learning technical environments
 
-Currently open to:
+---
 
-Internship opportunities
+# 📫 Let’s Connect
 
-Junior backend roles
-
-Engineering teams building serious systems
-
-📫 Let’s Connect
-
-If you value structure, scalability, and deliberate engineering — let’s connect.
+If you value scalable architecture, systems thinking, and deliberate engineering — let’s connect.
